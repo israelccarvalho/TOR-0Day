@@ -1,3 +1,4 @@
+//(c) ${Jabri1}
 self.onmessage =
 function(msg) {
 
